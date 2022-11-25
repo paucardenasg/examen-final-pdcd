@@ -21,7 +21,7 @@ Resumiendo lo anterior, la rama `main` está distribuida de la siguiente manera:
     + `model.pickle`
     + `model_desc.pickle`
     + `tf_idf.pickle`
-    + `v.pickle`
+    + `vectorizer.pickle`
   + `main.py`
   + `requirements.txt`
 + contenedor
