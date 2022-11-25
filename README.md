@@ -15,7 +15,7 @@ Para la solución se realizó:
   
 Lo anterior se encuentra en un archivo .ipynb con su respectivo archivo `requirements.txt` para no tener problemas en la ejecución de la solución. Además, en la carpeta de `API` se encuentra el arvhico .py con el código necesario para ejecutarla, el `requirements.txt` y el `Dockerfile` para el desarrollo del proyecto. De la misma manera, este repositorio contiene este `README.md` y un archivo `.gitignore` para no tener archivos que no son necesarios, como los checkpoints de Jupyer Notebook. Únicamente hay una rama en este repositorio, la `main`.
 
-En cuanto al conjunto de datos que se utilizarán, se obtuvieron a través de un [enlace](https://drive.google.com/file/d/1sQ7Fw0tO9GV-qnErJTQEbnqAACcPc18Q/view) y se encuentran en la carpeta `data`. Cuenta con las siguientes variables:
+En cuanto al conjunto de datos que se utilizarán, se obtuvieron a través de un [enlace](https://drive.google.com/file/d/1sQ7Fw0tO9GV-qnErJTQEbnqAACcPc18Q/view). Cuenta con las siguientes variables:
 + `Project Title` $\Rightarrow$ Nombre del proyecto
 + `Project Short Description` $\Rightarrow$ Descripción corta del proyecto
 + `Project Subject Category Tree` $\Rightarrow$ Taxonomía que indica el área al que pertenece el proyecto
